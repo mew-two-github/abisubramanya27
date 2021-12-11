@@ -7,13 +7,12 @@ I am **Abishek S**, currently in my final year of Electrical Engineering undergr
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - <img alt="ask me" src="https://github.com/abisubramanya27/abisubramanya27/blob/master/gif/message.gif?raw=true" width="25" /> &nbsp;Ask me about Data Structures, Algorithms, Movies, Cricket, or Anything
-- <img alt="find me at" src="https://github.com/abisubramanya27/abisubramanya27/blob/master/gif/letterbox.gif?raw=true" width="25" />&nbsp; Find me at: 
-[![Github Badge](https://img.shields.io/badge/-abisubramanya27-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abisubramanya27)](https://github.com/abisubramanya27)
-[![Linkedin Badge](https://img.shields.io/badge/-Abishek%20S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abisheks-2905)](https://www.linkedin.com/in/abisheks-2905)
+- <img alt="find me at" src="https://github.com/abisubramanya27/abisubramanya27/blob/master/gif/letterbox.gif?raw=true" width="25" />&nbsp; Find me at: [![Linkedin Badge](https://img.shields.io/badge/-Abishek%20S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abisheks-2905)](https://www.linkedin.com/in/abisheks-2905)
 [![Gmail Badge](https://img.shields.io/badge/-abisubramanya27@gmail.com-c14438?sstyle=flat-square&logo=Gmail&logoColor=white&link=mailto:abisubramanya27@gmail.com)](mailto:abisubramanya27@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-abisheks2905-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abisheks2905/)](https://www.instagram.com/abisheks2905/)
-[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/itisNotMe?logo=true)](https://codeforces.com/profile/itisNotMe)
-[![Codechef Badge](https://cp-logo.vercel.app/codechef/sabishek?logo=true)](https://www.codechef.com/users/sabishek)
+[![Codeforces Badge](https://img.shields.io/badge/dynamic/json?&color=b21fcc&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/itisNotMe&query=%24.rating&style=for-the-badge&cacheSeconds=86400&style=for-the-badge)](https://codeforces.com/profile/itisNotMe)
+[![Codechef Badge](https://img.shields.io/badge/dynamic/json?&color=fcb603&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/sabishek&query=%24.rating&style=for-the-badge&cacheSeconds=86400&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge)](https://www.codechef.com/users/sabishek)
+<!-- [![Github Badge](https://img.shields.io/badge/-abisubramanya27-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abisubramanya27)](https://github.com/abisubramanya27) -->
 - 😄 &nbsp;&nbsp;Pronouns: he/him/his
 - &nbsp; <img alt="ask me" src="https://github.com/abisubramanya27/abisubramanya27/blob/master/gif/lightning.gif?raw=true" width="12" />&nbsp; &nbsp;Fun fact: Coding is fun and I am fun loving
 
